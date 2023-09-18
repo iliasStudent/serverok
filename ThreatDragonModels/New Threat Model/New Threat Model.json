@@ -58,8 +58,8 @@
             },
             "visible": true,
             "shape": "actor",
-            "id": "f245064c-1f24-4202-86ec-8484dc5490c7",
             "zIndex": 1,
+            "id": "f245064c-1f24-4202-86ec-8484dc5490c7",
             "data": {
               "type": "tm.Actor",
               "name": "Hacker",
@@ -155,8 +155,8 @@
             },
             "visible": true,
             "shape": "actor",
-            "id": "639019c1-44e7-4ff2-a862-582c73611487",
             "zIndex": 11,
+            "id": "639019c1-44e7-4ff2-a862-582c73611487",
             "data": {
               "type": "tm.Actor",
               "name": "Innocent civilian",
